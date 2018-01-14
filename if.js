@@ -7,7 +7,11 @@ if (pokemon == "Pikachu") {
 function greaterThan()
 {
   if (number = ">10"){
-    return number
+    return (number)
+  if (number = "<10"){
+    return ("Sorry that is incorrect!")
+  }
+  
   }
 }
 
