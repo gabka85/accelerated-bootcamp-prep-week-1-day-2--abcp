@@ -6,9 +6,9 @@ if (pokemon == "Pikachu") {
 
 function greaterThan()
 {
-  elsif (num = ">10"){
+  else if (num = ">10"){
     return (num)
-  elsif (num = "<10"){
+  else if (num = "<10"){
     return ("Sorry that is incorrect!")
   }
   
